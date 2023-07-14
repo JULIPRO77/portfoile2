@@ -1,0 +1,63 @@
+html{
+    background-color:rgb(5, 89, 100)
+
+}
+h1{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    background-color: rgb(163, 4, 116);
+    color:whitesmoke;
+    text-align: center;
+    text-decoration: wavy;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 1000px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #f045ff;
+    color: rgb(91, 197, 197);
+
+}
+h2{
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    justify-content: center;
+    background-color:whitesmoke;
+    display: flex;
+    padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-size: xx-large;
+}
+note{
+    color: red;
+}
+img{
+    padding: 100px;
+    height: 500px;
+    justify-content: center;
+    text-align: center;
+    width: 900px;
+    border: 10px solid black;
+
+}
+h3 li{
+    color: rgb(188, 240, 45);
+    background-color: #f045ff;
+    background-size: cover;
+}
+li{
+    color: #fff;
+}
+
+p{
+    color: #fff;
+}
+.red-text{
+    color: #fff;
+    font-size: larger;
+    animation: backwards;
+}
